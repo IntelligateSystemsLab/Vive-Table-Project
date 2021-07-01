@@ -2,7 +2,7 @@
 Examining integration of an haptic glove in a virtual reality environment
 
 
-I. at first we need to turn on the two "VIVE base station" sensors
+I. at first we need to turn on the "VIVE base station" sensors
 
 II. We need to open ports, enable lighthouse and connect the gloves to the computer
 Simply by clicking on "run_with_lh.cmd" Which located in "senso-driver.19.04.2019" folder.
