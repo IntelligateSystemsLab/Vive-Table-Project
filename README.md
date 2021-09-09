@@ -1,4 +1,4 @@
-# final_project (Vive-Table)
+# final_project  (Vive-Table)
 Examining integration of an haptic glove in a virtual reality environment
 
 
